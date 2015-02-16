@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+x:Class="CustomMapTiles.Views.MapPage" 
+xmlns:local="clr-namespace:CustomMapTiles;assembly=CustomMapTiles">
+	<local:CustomMap x:Name="MyMap"
+	MapTileTemplate="http://api.tiles.mapbox.com/v4/blounty.l7lok06j/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiYmxvdW50eSIsImEiOiJYanJxSGxJIn0.LV0GHzqOvtGSyV6CjHqfuw"/>
+</ContentPage>

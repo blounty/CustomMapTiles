@@ -1,0 +1,42 @@
+﻿<Properties StartupItem="Droid/CustomMapTiles.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomMapTiles/Views/MapPage.xaml">
+    <Files>
+      <File FileName="CustomMapTiles/Views/MapPage.xaml" Line="1" Column="1" />
+      <File FileName="CustomMapTiles/Views/MapPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="CustomMapTiles/App.cs" Line="11" Column="10" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="23" Column="1" />
+      <File FileName="CustomMapTiles/CustomMap.cs" Line="1" Column="1" />
+      <File FileName="iOS/Renderers/CustomMapRenderer.cs" Line="8" Column="1" />
+      <File FileName="Droid/Renderers/CustomMapRenderer.cs" Line="27" Column="17" />
+      <File FileName="Droid/Renderers/CustomTileProvider.cs" Line="25" Column="1" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="11" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="CustomMapTiles" expanded="True">
+            <Node name="Views" expanded="True">
+              <Node name="MapPage.xaml" selected="True" />
+            </Node>
+          </Node>
+          <Node name="CustomMapTiles.Droid" expanded="True">
+            <Node name="Properties" expanded="True" />
+            <Node name="Renderers" expanded="True" />
+            <Node name="Resources" expanded="True" />
+          </Node>
+          <Node name="CustomMapTiles.iOS" expanded="True">
+            <Node name="Renderers" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alexblount/Projects/CustomMapTiles/iOS/Renderers/CustomMapRenderer.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

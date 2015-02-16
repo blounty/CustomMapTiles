@@ -1,0 +1,10 @@
+/Users/alexblount/Projects/CustomMapTiles/CustomMapTiles/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/alexblount/Projects/CustomMapTiles/CustomMapTiles/obj/Debug/CustomMapTiles.Views.MapPage.xaml
+/Users/alexblount/Projects/CustomMapTiles/CustomMapTiles/obj/Debug/MapPage.xaml.g.cs
+/Users/alexblount/Projects/CustomMapTiles/CustomMapTiles/bin/Debug/CustomMapTiles.dll.mdb
+/Users/alexblount/Projects/CustomMapTiles/CustomMapTiles/bin/Debug/CustomMapTiles.dll
+/Users/alexblount/Projects/CustomMapTiles/CustomMapTiles/obj/Debug/CustomMapTiles.dll
+/Users/alexblount/Projects/CustomMapTiles/CustomMapTiles/obj/Debug/CustomMapTiles.dll.mdb
+/Users/alexblount/Projects/CustomMapTiles/CustomMapTiles/bin/Debug/Xamarin.Forms.Core.dll
+/Users/alexblount/Projects/CustomMapTiles/CustomMapTiles/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/alexblount/Projects/CustomMapTiles/CustomMapTiles/bin/Debug/Xamarin.Forms.Maps.dll
