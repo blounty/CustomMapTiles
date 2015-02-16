@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="Droid/CustomMapTiles.Droid.csproj">
+﻿<Properties StartupItem="iOS/CustomMapTiles.iOS.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CustomMapTiles/Views/MapPage.xaml">
     <Files>
